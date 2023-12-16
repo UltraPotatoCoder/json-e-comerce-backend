@@ -1,0 +1,48 @@
+{
+  "products": {
+    "leashes": [
+      {
+        "productId": 1,
+        "image_url": "/Public/img/Leash/IMG_6293.PNG",
+        "name": "Surf Leash Model X",
+        "description": "High-quality surf leash for safety and control."
+      },
+      {
+        "productId": 2,
+        "image_url": "",
+        "name": "Pro Leash Pro II",
+        "description": "Professional-grade surf leash with advanced features."
+      }
+    ],
+
+    "decks": [
+      {
+        "productId": 3,
+        "image_url": "",
+        "name": "Performance Deck",
+        "description": "Optimized surfboard deck for enhanced performance."
+      },
+      {
+        "productId": 4,
+        "image_url": "",
+        "name": "Classic Wood Deck",
+        "description": "Vintage-style wooden deck for a classic look."
+      }
+    ],
+
+    "fins": [
+      {
+        "productId": 5,
+        "image_url": "",
+        "name": "Speed Demon Fins",
+        "description": "Fins designed for maximum speed and agility."
+      },
+      {
+        "productId": 6,
+        "image_url": "",
+        "name": "Beginner's Fin Set",
+        "description": "Starter pack of fins for novice surfers."
+      }
+    ]
+  }
+}
