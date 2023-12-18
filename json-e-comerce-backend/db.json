@@ -1,48 +1,239 @@
 {
-  "products": {
-    "leashes": [
-      {
-        "productId": 1,
-        "image_url": "/Public/img/Leash/IMG_6293.PNG",
-        "name": "Surf Leash Model X",
-        "description": "High-quality surf leash for safety and control."
-      },
-      {
-        "productId": 2,
-        "image_url": "",
-        "name": "Pro Leash Pro II",
-        "description": "Professional-grade surf leash with advanced features."
-      }
-    ],
+  "products": [
+    {
+      "productId": 1,
+      "type": "deck",
+      "image_url": "https://imgur.com/ac1OCuM",
+      "name": "Deck Black",
+      "price": "",
+      "description": "3PCS TAILPAD 7MM, 7MM CENTER ARCHBAR, HIGH DENSITY EVA BIO FOAM, CONCENTRIC MULTI AXIAL TRACTION PATTERN, 3M ADHESIVE, 27MM KICK TAIL WITH BEVELED EDGES"
+    },
+    {
+      "productId": 2,
+      "type": "deck",
+      "image_url": "https://imgur.com/khCnjdf",
+      "name": "Deck Orange",
+      "price": "",
+      "description": "3PCS TAILPAD 7MM, 7MM CENTER ARCHBAR, HIGH DENSITY EVA BIO FOAM, CONCENTRIC MULTI AXIAL TRACTION PATTERN, 3M ADHESIVE, 27MM KICK TAIL WITH BEVELED EDGES"
+    },
+    {
+      "productId": 3,
+      "type": "deck",
+      "image_url": "https://imgur.com/34HUFT0",
+      "name": "Deck Green",
+      "price": "",
+      "description": "3PCS TAILPAD 7MM, 7MM CENTER ARCHBAR, HIGH DENSITY EVA BIO FOAM, CONCENTRIC MULTI AXIAL TRACTION PATTERN, 3M ADHESIVE, 27MM KICK TAIL WITH BEVELED EDGES"
+    },
+    {
+      "productId": 4,
+      "type": "deck",
+      "image_url": "https://imgur.com/EqVrf5e",
+      "name": "Deck Yellow",
+      "price": "",
+      "description": "3PCS TAILPAD 7MM, 7MM CENTER ARCHBAR, HIGH DENSITY EVA BIO FOAM, CONCENTRIC MULTI AXIAL TRACTION PATTERN, 3M ADHESIVE, 27MM KICK TAIL WITH BEVELED EDGES"
+    },
+    {
+      "productId": 5,
+      "type": "deck",
+      "image_url": "https://imgur.com/hV6TeTE",
+      "name": "Deck Blue",
+      "price": "",
+      "description": "3PCS TAILPAD 7MM, 7MM CENTER ARCHBAR, HIGH DENSITY EVA BIO FOAM, CONCENTRIC MULTI AXIAL TRACTION PATTERN, 3M ADHESIVE, 27MM KICK TAIL WITH BEVELED EDGES"
+    },
+    {
+      "productId": 6,
+      "type": "deck",
+      "image_url": "https://imgur.com/aMKWnQe",
+      "name": "Deck Red",
+      "price": "",
+      "description": "3PCS TAILPAD 7MM, 7MM CENTER ARCHBAR, HIGH DENSITY EVA BIO FOAM, CONCENTRIC MULTI AXIAL TRACTION PATTERN, 3M ADHESIVE, 27MM KICK TAIL WITH BEVELED EDGES"
+    },
 
-    "decks": [
-      {
-        "productId": 3,
-        "image_url": "",
-        "name": "Performance Deck",
-        "description": "Optimized surfboard deck for enhanced performance."
-      },
-      {
-        "productId": 4,
-        "image_url": "",
-        "name": "Classic Wood Deck",
-        "description": "Vintage-style wooden deck for a classic look."
-      }
-    ],
+    {
+      "productId": 7,
+      "type": "deck",
+      "image_url": "https://imgur.com/J0TeFXS",
+      "name": "Deck Black Striped",
+      "price": "",
+      "description": "3PCS TAILPAD 7MM, 7MM CENTER ARCHBAR, HIGH DENSITY EVA BIO FOAM, CONCENTRIC MULTI AXIAL TRACTION PATTERN, 3M ADHESIVE, 27MM KICK TAIL WITH BEVELED EDGES"
+    },
+    {
+      "productId": 8,
+      "type": "deck",
+      "image_url": "https://imgur.com/2C3wEN6",
+      "name": "Deck Orange Striped",
+      "price": "",
+      "description": "3PCS TAILPAD 7MM, 7MM CENTER ARCHBAR, HIGH DENSITY EVA BIO FOAM, CONCENTRIC MULTI AXIAL TRACTION PATTERN, 3M ADHESIVE, 27MM KICK TAIL WITH BEVELED EDGES"
+    },
+    {
+      "productId": 9,
+      "type": "deck",
+      "image_url": "https://imgur.com/DCw8zol",
+      "name": "Deck Green Striped",
+      "price": "",
+      "description": "3PCS TAILPAD 7MM, 7MM CENTER ARCHBAR, HIGH DENSITY EVA BIO FOAM, CONCENTRIC MULTI AXIAL TRACTION PATTERN, 3M ADHESIVE, 27MM KICK TAIL WITH BEVELED EDGES"
+    },
+    {
+      "productId": 10,
+      "type": "deck",
+      "image_url": "https://imgur.com/zOzX1WP",
+      "name": "Deck Yellow Striped",
+      "price": "",
+      "description": "3PCS TAILPAD 7MM, 7MM CENTER ARCHBAR, HIGH DENSITY EVA BIO FOAM, CONCENTRIC MULTI AXIAL TRACTION PATTERN, 3M ADHESIVE, 27MM KICK TAIL WITH BEVELED EDGES"
+    },
+    {
+      "productId": 11,
+      "type": "deck",
+      "image_url": "https://imgur.com/M1HW61M",
+      "name": "Deck Blue Striped",
+      "price": "",
+      "description": "3PCS TAILPAD 7MM, 7MM CENTER ARCHBAR, HIGH DENSITY EVA BIO FOAM, CONCENTRIC MULTI AXIAL TRACTION PATTERN, 3M ADHESIVE, 27MM KICK TAIL WITH BEVELED EDGES"
+    },
+    {
+      "productId": 12,
+      "type": "deck",
+      "image_url": "https://imgur.com/shqHpO4",
+      "name": "Deck Red Striped",
+      "price": "",
+      "description": "3PCS TAILPAD 7MM, 7MM CENTER ARCHBAR, HIGH DENSITY EVA BIO FOAM, CONCENTRIC MULTI AXIAL TRACTION PATTERN, 3M ADHESIVE, 27MM KICK TAIL WITH BEVELED EDGES"
+    },
 
-    "fins": [
-      {
-        "productId": 5,
-        "image_url": "",
-        "name": "Speed Demon Fins",
-        "description": "Fins designed for maximum speed and agility."
-      },
-      {
-        "productId": 6,
-        "image_url": "",
-        "name": "Beginner's Fin Set",
-        "description": "Starter pack of fins for novice surfers."
-      }
-    ]
-  }
+    {
+      "productId": 13,
+      "type": "deck",
+      "image_url": "https://imgur.com/L8JSTKe",
+      "name": "Deck Black Dots",
+      "price": "",
+      "description": "3PCS TAILPAD 7MM, 7MM CENTER ARCHBAR, HIGH DENSITY EVA BIO FOAM, CONCENTRIC MULTI AXIAL TRACTION PATTERN, 3M ADHESIVE, 27MM KICK TAIL WITH BEVELED EDGES"
+    },
+    {
+      "productId": 14,
+      "type": "deck",
+      "image_url": "https://imgur.com/AheCiAF",
+      "name": "Deck Orange Dots",
+      "price": "",
+      "description": "3PCS TAILPAD 7MM, 7MM CENTER ARCHBAR, HIGH DENSITY EVA BIO FOAM, CONCENTRIC MULTI AXIAL TRACTION PATTERN, 3M ADHESIVE, 27MM KICK TAIL WITH BEVELED EDGES"
+    },
+    {
+      "productId": 15,
+      "type": "deck",
+      "image_url": "https://imgur.com/PyGNgwL",
+      "name": "Deck Green Dots",
+      "price": "",
+      "description": "3PCS TAILPAD 7MM, 7MM CENTER ARCHBAR, HIGH DENSITY EVA BIO FOAM, CONCENTRIC MULTI AXIAL TRACTION PATTERN, 3M ADHESIVE, 27MM KICK TAIL WITH BEVELED EDGES"
+    },
+    {
+      "productId": 16,
+      "type": "deck",
+      "image_url": "https://imgur.com/TMCdt2e",
+      "name": "Deck Yellow Dots",
+      "price": "",
+      "description": "3PCS TAILPAD 7MM, 7MM CENTER ARCHBAR, HIGH DENSITY EVA BIO FOAM, CONCENTRIC MULTI AXIAL TRACTION PATTERN, 3M ADHESIVE, 27MM KICK TAIL WITH BEVELED EDGES"
+    },
+    {
+      "productId": 17,
+      "type": "deck",
+      "image_url": "https://imgur.com/fyFuWEt",
+      "name": "Deck Blue Dots",
+      "price": "",
+      "description": "3PCS TAILPAD 7MM, 7MM CENTER ARCHBAR, HIGH DENSITY EVA BIO FOAM, CONCENTRIC MULTI AXIAL TRACTION PATTERN, 3M ADHESIVE, 27MM KICK TAIL WITH BEVELED EDGES"
+    },
+    {
+      "productId": 18,
+      "type": "deck",
+      "image_url": "https://imgur.com/WWZ1oTG",
+      "name": "Deck Red Dots",
+      "price": "",
+      "description": "3PCS TAILPAD 7MM, 7MM CENTER ARCHBAR, HIGH DENSITY EVA BIO FOAM, CONCENTRIC MULTI AXIAL TRACTION PATTERN, 3M ADHESIVE, 27MM KICK TAIL WITH BEVELED EDGES"
+    },
+
+    {
+      "productId": 19,
+      "type": "leash",
+      "image_url": "https://imgur.com/dB3aw5p",
+      "name": "Leash Black",
+      "price": "",
+      "description": "PADDED NEOPRENE CUFF, 6MM STRONG FLEXIBLE TPU CORD, SMOOTH ROTATING DOUBLE SWIVEL, MARINE GRADE STAINLESS STEEL SWIVELS"
+    },
+    {
+      "productId": 20,
+      "type": "leash",
+      "image_url": "https://imgur.com/4tmWniZ",
+      "name": "Leash Blue",
+      "price": "",
+      "description": "PADDED NEOPRENE CUFF, 6MM STRONG FLEXIBLE TPU CORD, SMOOTH ROTATING DOUBLE SWIVEL, MARINE GRADE STAINLESS STEEL SWIVELS"
+    },
+    {
+      "productId": 21,
+      "type": "leash",
+      "image_url": "https://imgur.com/wvsn73N",
+      "name": "Leash Green",
+      "price": "",
+      "description": "PADDED NEOPRENE CUFF, 6MM STRONG FLEXIBLE TPU CORD, SMOOTH ROTATING DOUBLE SWIVEL, MARINE GRADE STAINLESS STEEL SWIVELS"
+    },
+    {
+      "productId": 22,
+      "type": "leash",
+      "image_url": "https://imgur.com/zZEEXb5",
+      "name": "Leash Yellow",
+      "price": "",
+      "description": "PADDED NEOPRENE CUFF, 6MM STRONG FLEXIBLE TPU CORD, SMOOTH ROTATING DOUBLE SWIVEL, MARINE GRADE STAINLESS STEEL SWIVELS"
+    },
+    {
+      "productId": 23,
+      "type": "leash",
+      "image_url": "https://imgur.com/EI0Hkxu",
+      "name": "Leash Pink",
+      "price": "",
+      "description": "PADDED NEOPRENE CUFF, 6MM STRONG FLEXIBLE TPU CORD, SMOOTH ROTATING DOUBLE SWIVEL, MARINE GRADE STAINLESS STEEL SWIVELS"
+    },
+    {
+      "productId": 3,
+      "type": "fin",
+      "image_url": "",
+      "name": "Speed Demon Fins",
+      "price": "",
+      "description": "Quilha AMK GREEN/GRAY Fiberglass 1039-264-20|TWIN"
+    },
+    {
+      "productId": 4,
+      "type": "board-bags",
+      "image_url": "",
+      "name": "Classic cover",
+      "price": "",
+      "description": "MADE FROM RECYCLED RPET FABRIC, BREATHABLE AIR MESH FABRIC FOR MAXIMUM VENTILATION, RADIAL PADDING FOR EXTRA CUSHIONING AND BOARD PROTECTION, NYLON ANTICORROSION ZIPPERS FOR RELIABLE, LONG-LASTING CLOSURE, PADDED NOSE PROTECTION FOR IMPACT AND ABRASION RESISTANCE"
+    }
+  ],
+
+  "users": [
+    {
+      "username": "john_doe",
+      "password": "password123",
+      "cart": [
+        {
+          "productId": 3,
+          "quantity": 2
+        },
+        {
+          "productId": 5,
+          "quantity": 1
+        }
+      ]
+    },
+
+    {
+      "username": "potato_man",
+      "password": "potato123",
+      "cart": [
+        {
+          "productId": 3,
+          "quantity": 2
+        },
+        {
+          "productId": 5,
+          "quantity": 1
+        }
+      ]
+    }
+  ]
 }
