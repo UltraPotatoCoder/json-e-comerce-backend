@@ -2,205 +2,330 @@
   "products": [
     {
       "id": 1,
-      "type": "deck",
-      "image_url": "https://imgur.com/ac1OCuM",
-      "name": "Deck Black",
-      "price": "40.00",
-      "description": "3PCS TAILPAD 7MM, 7MM CENTER ARCHBAR, HIGH DENSITY EVA BIO FOAM, CONCENTRIC MULTI AXIAL TRACTION PATTERN, 3M ADHESIVE, 27MM KICK TAIL WITH BEVELED EDGES"
+      "name": "FCS C-3 CLASSIC",
+      "image": "https://drive.google.com/file/d/1ZpXLfooXidPnRgbXKPEVG9B6KhONT1CI/view?usp=drive_link",
+      "description": "3 piece classic traction, designed to suit all boards.",
+      "category": "decks",
+      "new_price": 38.5,
+      "old_price": 42.0
     },
     {
       "id": 2,
-      "type": "deck",
-      "image_url": "https://imgur.com/khCnjdf",
-      "name": "Deck Orange",
-      "price": "",
-      "description": "3PCS TAILPAD 7MM, 7MM CENTER ARCHBAR, HIGH DENSITY EVA BIO FOAM, CONCENTRIC MULTI AXIAL TRACTION PATTERN, 3M ADHESIVE, 27MM KICK TAIL WITH BEVELED EDGES"
+      "name": "RYAN CALLINAN PRO SERIES",
+      "image": "https://drive.google.com/file/d/10nDcM271HKqMPxzli8LTZ6sw2MxLgKxv/view?usp=drive_link",
+      "description": "Our Ryan Callinan pro series surfboard tail pad is designed by the Mayor of Mereweather himself. A high performance pad, constructed from lightweight, high impact, water-resistant EVA.",
+      "category": "decks",
+      "new_price": 46.5,
+      "old_price": 49.0
     },
     {
       "id": 3,
-      "type": "deck",
-      "image_url": "https://imgur.com/34HUFT0",
-      "name": "Deck Green",
-      "price": "",
-      "description": "3PCS TAILPAD 7MM, 7MM CENTER ARCHBAR, HIGH DENSITY EVA BIO FOAM, CONCENTRIC MULTI AXIAL TRACTION PATTERN, 3M ADHESIVE, 27MM KICK TAIL WITH BEVELED EDGES"
+      "name": "KANOA IGARASHI PRO SERIES",
+      "image": "https://drive.google.com/file/d/19HHKatOu5jlTUQTe1Ua5PnhZA3Avz3la/view?usp=drive_link",
+      "description": "This surfboard tail pad is designed by no other than WSL tour surfer Kanoa Igarashi. A high performance pad, constructed from lightweight, high impact, water-resistant EVA with slotted grooves and Kanoa's custom square diamond groove pattern.",
+      "category": "decks",
+      "new_price": 46.5,
+      "old_price": 49.0
     },
     {
       "id": 4,
-      "type": "deck",
-      "image_url": "https://imgur.com/EqVrf5e",
-      "name": "Deck Yellow",
-      "price": "",
-      "description": "3PCS TAILPAD 7MM, 7MM CENTER ARCHBAR, HIGH DENSITY EVA BIO FOAM, CONCENTRIC MULTI AXIAL TRACTION PATTERN, 3M ADHESIVE, 27MM KICK TAIL WITH BEVELED EDGES"
+      "name": "FCS FILIPE TOLEDO TRACTION",
+      "image": "https://drive.google.com/file/d/1kOSrpHL57nX4mg4bVv6pcrZXyH5stfbC/view?usp=drive_link",
+      "description": "Designed and tested in collaboration with the world's best surfers, the FCS Athlete Series Traction range has rider-specific features for the ultimate in performance.",
+      "category": "decks",
+      "new_price": 42.0,
+      "old_price": 46.0
     },
     {
       "id": 5,
-      "type": "deck",
-      "image_url": "https://imgur.com/hV6TeTE",
-      "name": "Deck Blue",
-      "price": "",
-      "description": "3PCS TAILPAD 7MM, 7MM CENTER ARCHBAR, HIGH DENSITY EVA BIO FOAM, CONCENTRIC MULTI AXIAL TRACTION PATTERN, 3M ADHESIVE, 27MM KICK TAIL WITH BEVELED EDGES"
+      "name": "KANOA IGARASHI LITE TRAC",
+      "image": "https://drive.google.com/file/d/1gBUaLyoqsM_-7AdRLIKh0Q0ZQaRsnUZf/view?usp=drive_link",
+      "description": "This surfboard tail pad is designed by no other than WSL tour surfer Kanoa Igarashi. A high performance pad, constructed from lightweight, high impact, water-resistant EVA with slotted grooves and Kanoa's custom square diamond groove pattern.",
+      "category": "decks",
+      "new_price": 46.5,
+      "old_price": 49.0
     },
     {
       "id": 6,
-      "type": "deck",
-      "image_url": "https://imgur.com/aMKWnQe",
-      "name": "Deck Red",
-      "price": "",
-      "description": "3PCS TAILPAD 7MM, 7MM CENTER ARCHBAR, HIGH DENSITY EVA BIO FOAM, CONCENTRIC MULTI AXIAL TRACTION PATTERN, 3M ADHESIVE, 27MM KICK TAIL WITH BEVELED EDGES"
+      "name": "TYLER WRIGHT PRO SERIES",
+      "image": "https://drive.google.com/file/d/1qtZGLMknbAlXC3wTnYesXEZ3b6BQ88Ly/view?usp=drive_link",
+      "description": "The Tyler Wright pro series surfboard tail pad has been custom designed by the 2 x World Champ herself. Designed for power surfing and constructed with lightweight, high impact, waterproof EVA.",
+      "category": "decks",
+      "new_price": 46.5,
+      "old_price": 49.0
     },
     {
       "id": 7,
-      "type": "deck",
-      "image_url": "https://imgur.com/J0TeFXS",
-      "name": "Deck Black Striped",
-      "price": "",
-      "description": "3PCS TAILPAD 7MM, 7MM CENTER ARCHBAR, HIGH DENSITY EVA BIO FOAM, CONCENTRIC MULTI AXIAL TRACTION PATTERN, 3M ADHESIVE, 27MM KICK TAIL WITH BEVELED EDGES"
+      "name": "FCS KOLOHE ANDINO TRACTION",
+      "image": "https://drive.google.com/file/d/1ZgIv3y22RcuxGnmbOsIQtLJyjDQCU-Gb/view?usp=drive_link",
+      "description": "The Kolohe Andino signature traction is now available in six different colors, as well as two different colors for the grom-sized grips.",
+      "category": "decks",
+      "new_price": 43.5,
+      "old_price": 47.0
     },
     {
       "id": 8,
-      "type": "deck",
-      "image_url": "https://imgur.com/2C3wEN6",
-      "name": "Deck Orange Striped",
-      "price": "",
-      "description": "3PCS TAILPAD 7MM, 7MM CENTER ARCHBAR, HIGH DENSITY EVA BIO FOAM, CONCENTRIC MULTI AXIAL TRACTION PATTERN, 3M ADHESIVE, 27MM KICK TAIL WITH BEVELED EDGES"
+      "name": "FCS SALLY FITZGIBBONS TRACTION",
+      "image": "https://drive.google.com/file/d/1uxy-635NQq8vh8ae40oLOlOaAouSffh7/view?usp=drive_link",
+      "description": "Sally Fitzgibbons' signature 3 piece pad. Designed to feel secure when powering through turns and releasing the tail.",
+      "category": "decks",
+      "new_price": 45.5,
+      "old_price": 49.0
     },
     {
       "id": 9,
-      "type": "deck",
-      "image_url": "https://imgur.com/DCw8zol",
-      "name": "Deck Green Striped",
-      "price": "",
-      "description": "3PCS TAILPAD 7MM, 7MM CENTER ARCHBAR, HIGH DENSITY EVA BIO FOAM, CONCENTRIC MULTI AXIAL TRACTION PATTERN, 3M ADHESIVE, 27MM KICK TAIL WITH BEVELED EDGES"
+      "name": "MICRO GROM",
+      "image": "https://drive.google.com/file/d/1Ag4nhSe7tpwWRwAjgtulbgfH73OJDOi9/view?usp=drive_link",
+      "description": "Get your Grom shredding with the Micro Grom 3-Piece surfboard tail pad. Designed for high performance surfing, this pad is super grippy adding precision and drive to your grom's surfing.",
+      "category": "decks",
+      "new_price": 45.5,
+      "old_price": 49.0
     },
     {
       "id": 10,
-      "type": "deck",
-      "image_url": "https://imgur.com/zOzX1WP",
-      "name": "Deck Yellow Striped",
-      "price": "",
-      "description": "3PCS TAILPAD 7MM, 7MM CENTER ARCHBAR, HIGH DENSITY EVA BIO FOAM, CONCENTRIC MULTI AXIAL TRACTION PATTERN, 3M ADHESIVE, 27MM KICK TAIL WITH BEVELED EDGES"
+      "name": "FREDERICO MORAIS PRO SERIES",
+      "image": "https://drive.google.com/file/d/1g24erjc3-o-lcOxdhmvxT-GCELgmcdly/view?usp=drive_link",
+      "description": "Hailing from the wave-rich country of Portugal, Fred`s surfing has been shaped from big beach breaks and slabbing points. A known power surfer who can combine big turns with airs, there is little wonder why Fred has become Europe`s No.1 surfer.",
+      "category": "decks",
+      "new_price": 45.5,
+      "old_price": 49.0
     },
     {
       "id": 11,
-      "type": "deck",
-      "image_url": "https://imgur.com/M1HW61M",
-      "name": "Deck Blue Striped",
-      "price": "",
-      "description": "3PCS TAILPAD 7MM, 7MM CENTER ARCHBAR, HIGH DENSITY EVA BIO FOAM, CONCENTRIC MULTI AXIAL TRACTION PATTERN, 3M ADHESIVE, 27MM KICK TAIL WITH BEVELED EDGES"
+      "name": "FCS JULIAN WILSON TRACTION",
+      "image": "https://drive.google.com/file/d/1xq3VzVyb4oy8vkf4lon97bA9edrdfKKp/view?usp=drive_link",
+      "description": "Julian Wilson's signature 3 piece pad. Designed for increased traction and reduced weight.",
+      "category": "decks",
+      "new_price": 41.5,
+      "old_price": 45.0
     },
     {
       "id": 12,
-      "type": "deck",
-      "image_url": "https://imgur.com/shqHpO4",
-      "name": "Deck Red Striped",
-      "price": "",
-      "description": "3PCS TAILPAD 7MM, 7MM CENTER ARCHBAR, HIGH DENSITY EVA BIO FOAM, CONCENTRIC MULTI AXIAL TRACTION PATTERN, 3M ADHESIVE, 27MM KICK TAIL WITH BEVELED EDGES"
+      "name": "FCS T-2 TRACTION",
+      "image": "https://drive.google.com/file/d/1rwvpKsb2CntJmZTe5FsFnySvMM0LFeus/view?usp=drive_link",
+      "description": "2 piece traction, designed to suit hybrid boards.",
+      "category": "decks",
+      "new_price": 41.5,
+      "old_price": 45.0
     },
     {
       "id": 13,
-      "type": "deck",
-      "image_url": "https://imgur.com/L8JSTKe",
-      "name": "Deck Black Dots",
-      "price": "",
-      "description": "3PCS TAILPAD 7MM, 7MM CENTER ARCHBAR, HIGH DENSITY EVA BIO FOAM, CONCENTRIC MULTI AXIAL TRACTION PATTERN, 3M ADHESIVE, 27MM KICK TAIL WITH BEVELED EDGES"
+      "name": "FCS II MICK FANNING TRI FINS",
+      "image": "https://drive.google.com/file/d/1di2G_ybprnFtoodVRECHeSBEgmkGhTH1/view?usp=drive_link",
+      "description": "Mick Fanning's signature FCS II MF fin in premium PC material for controlled powerful surfing.",
+      "category": "fins",
+      "new_price": 104.9,
+      "old_price": 125.0
     },
     {
       "id": 14,
-      "type": "deck",
-      "image_url": "https://imgur.com/AheCiAF",
-      "name": "Deck Orange Dots",
-      "price": "",
-      "description": "3PCS TAILPAD 7MM, 7MM CENTER ARCHBAR, HIGH DENSITY EVA BIO FOAM, CONCENTRIC MULTI AXIAL TRACTION PATTERN, 3M ADHESIVE, 27MM KICK TAIL WITH BEVELED EDGES"
+      "name": "FCS II KOLOHE ANDINO TRI FINS",
+      "image": "https://drive.google.com/file/d/1lR626zaB5_5WDei8miXTejq7fAiR8w5m/view?usp=drive_link",
+      "description": "Kolohe Andino's 'KA' signature fin. Delivers a lively mix of drive, pivot and release.",
+      "category": "fins",
+      "new_price": 99.9,
+      "old_price": 119.0
     },
     {
       "id": 15,
-      "type": "deck",
-      "image_url": "https://imgur.com/PyGNgwL",
-      "name": "Deck Green Dots",
-      "price": "",
-      "description": "3PCS TAILPAD 7MM, 7MM CENTER ARCHBAR, HIGH DENSITY EVA BIO FOAM, CONCENTRIC MULTI AXIAL TRACTION PATTERN, 3M ADHESIVE, 27MM KICK TAIL WITH BEVELED EDGES"
+      "name": "FCS II JULIAN WILSON LARGE TRI FINS",
+      "image": "https://drive.google.com/file/d/12A86oM8g5eLzEtu6HeLcQbpP5mzu7Vru/view?usp=drive_link",
+      "description": "Julian Wilson's 'JW' signature fin. Speed and projection for progressive surfing.",
+      "category": "fins",
+      "new_price": 70.0,
+      "old_price": 81.5
     },
     {
       "id": 16,
-      "type": "deck",
-      "image_url": "https://imgur.com/TMCdt2e",
-      "name": "Deck Yellow Dots",
-      "price": "",
-      "description": "3PCS TAILPAD 7MM, 7MM CENTER ARCHBAR, HIGH DENSITY EVA BIO FOAM, CONCENTRIC MULTI AXIAL TRACTION PATTERN, 3M ADHESIVE, 27MM KICK TAIL WITH BEVELED EDGES"
+      "name": "FCS II FILIPE TOLEDO TRI FINS",
+      "image": "https://drive.google.com/file/d/1Ps0gIxmc4yQJCtRWxowSt-YpnXahwWGn/view?usp=drive_link",
+      "description": "Filipe Toledo's 'FT' signature fin. Ultra-light material for fast progressive surfing.",
+      "category": "fins",
+      "new_price": 104.9,
+      "old_price": 125.0
     },
     {
       "id": 17,
-      "type": "deck",
-      "image_url": "https://imgur.com/fyFuWEt",
-      "name": "Deck Blue Dots",
-      "price": "",
-      "description": "3PCS TAILPAD 7MM, 7MM CENTER ARCHBAR, HIGH DENSITY EVA BIO FOAM, CONCENTRIC MULTI AXIAL TRACTION PATTERN, 3M ADHESIVE, 27MM KICK TAIL WITH BEVELED EDGES"
+      "name": "FCS II JULIAN WILSON PC AIRCORE TRI FINS",
+      "image": "https://drive.google.com/file/d/17rCFyqdv-RlBht2JX787L1ILk6S-JcYY/view?usp=drive_link",
+      "description": "Julian Wilson's 'JW' signature fin. Speed and projection for progressive surfing.",
+      "category": "fins",
+      "new_price": 99.9,
+      "old_price": 119.5
     },
     {
       "id": 18,
-      "type": "deck",
-      "image_url": "https://imgur.com/WWZ1oTG",
-      "name": "Deck Red Dots",
-      "price": "",
-      "description": "3PCS TAILPAD 7MM, 7MM CENTER ARCHBAR, HIGH DENSITY EVA BIO FOAM, CONCENTRIC MULTI AXIAL TRACTION PATTERN, 3M ADHESIVE, 27MM KICK TAIL WITH BEVELED EDGES"
+      "name": "FCS II SALLY FITZGIBBONS TRI FINS",
+      "image": "https://drive.google.com/file/d/1u6KvNdYo8jVH3mcTWfKaOE5blf-ynyfL/view?usp=drive_link",
+      "description": "Sally Fitzgibbons' SF signature fin. Ideal for beach breaks.",
+      "category": "fins",
+      "new_price": 125.0,
+      "old_price": 104.9
     },
     {
       "id": 19,
-      "type": "leash",
-      "image_url": "https://imgur.com/dB3aw5p",
-      "name": "Leash Black",
-      "price": "",
-      "description": "PADDED NEOPRENE CUFF, 6MM STRONG FLEXIBLE TPU CORD, SMOOTH ROTATING DOUBLE SWIVEL, MARINE GRADE STAINLESS STEEL SWIVELS"
+      "name": "FCS II JEREMY FLORES TRI FINS",
+      "image": "https://drive.google.com/file/d/1fcXZqlFQiDlIzlxx48_wGjhqTtM-Hdlh/view?usp=drive_link",
+      "description": "With a focus on power and a more connected approach, Jeremy's new large signature template lends DNA from multiple fins.",
+      "category": "fins",
+      "new_price": 104.9,
+      "old_price": 125.0
     },
     {
       "id": 20,
-      "type": "leash",
-      "image_url": "https://imgur.com/4tmWniZ",
-      "name": "Leash Blue",
-      "price": "",
-      "description": "PADDED NEOPRENE CUFF, 6MM STRONG FLEXIBLE TPU CORD, SMOOTH ROTATING DOUBLE SWIVEL, MARINE GRADE STAINLESS STEEL SWIVELS"
+      "name": "FCS II FILIPE TOLEDO TRI FINS",
+      "image": "https://drive.google.com/file/d/1rR1pZjynKuMnUbqdBowzYlWOn0ZwG14M/view?usp=drive_link",
+      "description": "Filipe Toledo's 'FT' signature fin. Ultra-light material for fast progressive surfing.",
+      "category": "fins",
+      "new_price": 104.9,
+      "old_price": 125.0
     },
     {
       "id": 21,
-      "type": "leash",
-      "image_url": "https://imgur.com/wvsn73N",
-      "name": "Leash Green",
-      "price": "",
-      "description": "PADDED NEOPRENE CUFF, 6MM STRONG FLEXIBLE TPU CORD, SMOOTH ROTATING DOUBLE SWIVEL, MARINE GRADE STAINLESS STEEL SWIVELS"
+      "name": "FCS II NATHAN FLORENCE BIG WAVE TRI FINS",
+      "image": "https://drive.google.com/file/d/1vDmNtdqKlczJ7B5UmUz-1FPXqK9SM52H/view?usp=drive_link",
+      "description": "Nathan Florence's signature FCS II Big Wave fin in premium performance glass material, tested and proven in Hawaï, these precision-cut fins are built for big wave surfing.",
+      "category": "fins",
+      "new_price": 120.9,
+      "old_price": 140.0
     },
     {
       "id": 22,
-      "type": "leash",
-      "image_url": "https://imgur.com/zZEEXb5",
-      "name": "Leash Yellow",
-      "price": "",
-      "description": "PADDED NEOPRENE CUFF, 6MM STRONG FLEXIBLE TPU CORD, SMOOTH ROTATING DOUBLE SWIVEL, MARINE GRADE STAINLESS STEEL SWIVELS"
+      "name": "FCS II KELIA MONIZ LONGBOARD FIN",
+      "image": "https://drive.google.com/file/d/1sbIpv4Y3UKpLpSJ2utm-6PTN2CMyPbGR/view?usp=drive_link",
+      "description": "Kelia Moniz's new Longboard Fin. Featuring a classic template, perfect for cruising, driving off the bottom & arching through turns.",
+      "category": "fins",
+      "new_price": 89.9,
+      "old_price": 99.0
     },
     {
       "id": 23,
-      "type": "leash",
-      "image_url": "https://imgur.com/EI0Hkxu",
-      "name": "Leash Pink",
-      "price": "",
-      "description": "PADDED NEOPRENE CUFF, 6MM STRONG FLEXIBLE TPU CORD, SMOOTH ROTATING DOUBLE SWIVEL, MARINE GRADE STAINLESS STEEL SWIVELS"
+      "name": "FCS II KELIA MONIZ LONGBOARD FIN",
+      "image": "https://drive.google.com/file/d/1tZflTCb1Autf9yM3rds9XNfAIDZXnpIh/view?usp=drive_link",
+      "description": "Kelia Moniz's new Longboard Fin. Featuring a classic template, perfect for cruising, driving off the bottom & arching through turns.",
+      "category": "fins",
+      "new_price": 89.9,
+      "old_price": 99.0
     },
     {
       "id": 24,
-      "type": "fin",
-      "image_url": "https://files.slack.com/files-pri/T01BAR6KJP4-F06B2U7UHLZ/fcs_2024_thruster_julian_wilson_black_front_1_1200x.png",
-      "name": "Speed Demon Fins",
-      "price": "",
-      "description": "Quilha AMK GREEN/GRAY Fiberglass 1039-264-20|TWIN"
+      "name": "FCS II KELIA MONIZ LONGBOARD FIN",
+      "image": "https://drive.google.com/file/d/1dbhR1EpI3swRiGjxDteiPJdKKNI-8Tsb/view?usp=drive_link",
+      "description": "Kelia Moniz's new Longboard Fin. Featuring a classic template, perfect for cruising, driving off the bottom & arching through turns.",
+      "category": "fins",
+      "new_price": 89.0,
+      "old_price": 99.0
     },
     {
       "id": 25,
-      "type": "board-bags",
-      "image_url": "",
-      "name": "Classic cover",
-      "price": "",
-      "description": "MADE FROM RECYCLED RPET FABRIC, BREATHABLE AIR MESH FABRIC FOR MAXIMUM VENTILATION, RADIAL PADDING FOR EXTRA CUSHIONING AND BOARD PROTECTION, NYLON ANTICORROSION ZIPPERS FOR RELIABLE, LONG-LASTING CLOSURE, PADDED NOSE PROTECTION FOR IMPACT AND ABRASION RESISTANCE"
+      "name": "SLIMLINE LIGHTWEIGHT COMP ONE-XT - 6FT",
+      "image": "https://drive.google.com/file/d/1WToNzzQ4CW9v5Dh2abeJR-hW-WDlzxfK/view?usp=drive_link",
+      "description": "Less drag, more speed. Meet the World's Strongest / Lightest leash. Sleek in its design, the SLIMLINE Lightweight Comp One-XT surfboard leash in 6ft uses our Patented One-Piece Cord technology: No Joins, No Weak Points.",
+      "category": "leashes",
+      "new_price": 42.0,
+      "old_price": 46.0
+    },
+    {
+      "id": 26,
+      "name": "SLIMLINE LIGHTWEIGHT COMP ONE-XT - 6.6FT",
+      "image": "https://drive.google.com/file/d/1Ty_aPolm3J2tp4hGUd7hUWd__dd60J9K/view?usp=drive_link",
+      "description": "Less drag, more speed. Meet the World's Strongest / Lightest leash. Sleek in its design, the SLIMLINE Lightweight Comp One-XT surfboard leash in 6.6ft uses our Patented One-Piece Cord technology: No Joins, No Weak Points.",
+      "category": "leashes",
+      "new_price": 44.0,
+      "old_price": 48.0
+    },
+    {
+      "id": 27,
+      "name": "PREMIUM ALL ROUND COMP ONE-XT - 6FT",
+      "image": "https://drive.google.com/file/d/1-KFK-CdTXqrAmKX6YBN0Y-r5ktjn-Dvi/view?usp=drive_link",
+      "description": "Less drag, more speed. Meet the World's Strongest / Lightest leash. Sleek in its design, the SLIMLINE Lightweight Comp One-XT surfboard leash in 6ft uses our Patented One-Piece Cord technology: No Joins, No Weak Points.",
+      "category": "leashes",
+      "new_price": 41.0,
+      "old_price": 45.0
+    },
+    {
+      "id": 28,
+      "name": "PREMIUM ONE-XT - 7FT",
+      "image": "https://drive.google.com/file/d/1hr6LW1uSuTpkWY_OYW49X4jpcw0vHflY/view?usp=drive_link",
+      "description": "Less drag, more speed. Meet the World's Strongest / Lightest leash. Sleek in its design, the SLIMLINE Lightweight Comp One-XT surfboard leash in 7ft uses our Patented One-Piece Cord technology: No Joins, No Weak Points.",
+      "category": "leashes",
+      "new_price": 44.9,
+      "old_price": 49.9
+    },
+    {
+      "id": 29,
+      "name": "PREMIUM ONE-XT - 8FT",
+      "image": "https://drive.google.com/file/d/1k6RGADZ6xm0Vqci5vR1b8kbC-hjITYgR/view?usp=drive_link",
+      "description": "Less drag, more speed. Meet the World's Strongest / Lightest leash. Sleek in its design, the SLIMLINE Lightweight Comp One-XT surfboard leash in 8ft uses our Patented One-Piece Cord technology: No Joins, No Weak Points.",
+      "category": "leashes",
+      "new_price": 48.0,
+      "old_price": 52.0
+    },
+    {
+      "id": 30,
+      "name": "FCS FREEDOM HELIX LEASH - ALL ROUND 6.6FT",
+      "image": "https://drive.google.com/file/d/1bmDc_uy_IzPuig2i5icQeN_0jeptbS4-/view?usp=drive_link",
+      "description": "The Freedom Helix creates the perfect blend of weightlessness, strength and sustainability in a leash that`s one of a kind.",
+      "category": "leashes",
+      "new_price": 42.5,
+      "old_price": 46.5
+    },
+    {
+      "id": 31,
+      "name": "FCS FREEDOM HELIX LEASH - ALL ROUND 6FT",
+      "image": "https://drive.google.com/file/d/1my4IlJO_KkooDRcsC1426bc8N4fB4CJS/view?usp=drive_link",
+      "description": "The Freedom Helix creates the perfect blend of weightlessness, strength and sustainability in a leash that`s one of a kind.",
+      "category": "leashes",
+      "new_price": 40.9,
+      "old_price": 44.5
+    },
+    {
+      "id": 32,
+      "name": "FCS FREEDOM HELIX LEASH - ALL ROUND 7FT",
+      "image": "https://drive.google.com/file/d/1EC9caBhW03dr0huU3-zeyKv14lHqAGJk/view?usp=drive_link",
+      "description": "The Freedom Helix creates the perfect blend of weightlessness, strength and sustainability in a leash that`s one of a kind.",
+      "category": "leashes",
+      "new_price": 50.5,
+      "old_price": 55.0
+    },
+    {
+      "id": 33,
+      "name": "FCS FREEDOM HELIX LEASH - ALL ROUND 6FT",
+      "image": "https://drive.google.com/file/d/1M0skaZZgC4N6uqdK52Ep17cwHVcCh2L2/view?usp=drive_link",
+      "description": "The Freedom Helix creates the perfect blend of weightlessness, strength and sustainability in a leash that`s one of a kind.",
+      "category": "leashes",
+      "new_price": 50.9,
+      "old_price": 55.0
+    },
+    {
+      "id": 34,
+      "name": "FCS ALL ROUND ESSENTIAL LEASH 7FT",
+      "image": "https://drive.google.com/file/d/1X3zZVgnOKzxdVYyRdS3jDHaPEASfcM2U/view?usp=drive_link",
+      "description": "Inspired by the revolutionary freedom leash. The FCS essential series leash has been streamlined into a light, durable and super comfortable leash that is built to handle all conditions.",
+      "category": "leashes",
+      "new_price": 39.0,
+      "old_price": 44.0
+    },
+    {
+      "id": 35,
+      "name": "FCS ALL ROUND ESSENTIAL LEASH 6.6FT",
+      "image": "https://drive.google.com/file/d/17f0V-KCDo22ryuLOvCGv8_uAUjJPa6CI/view?usp=drive_link",
+      "description": "Inspired by the revolutionary freedom leash. The FCS essential series leash has been streamlined into a light, durable and super comfortable leash that is built to handle all conditions.",
+      "category": "leashes",
+      "new_price": 37.0,
+      "old_price": 42.5
+    },
+    {
+      "id": 36,
+      "name": "FCS ALL ROUND ESSENTIAL LEASH 6FT",
+      "image": "https://drive.google.com/file/d/1FA6rEcKsglKtn6oid_RneHEDKrxlIc9Q/view?usp=drive_link",
+      "description": "Inspired by the revolutionary freedom leash. The FCS essential series leash has been streamlined into a light, durable and super comfortable leash that is built to handle all conditions.",
+      "category": "leashes",
+      "new_price": 35.9,
+      "old_price": 40.0
     }
   ],
+
   "users": [
     {
       "id": 1,
