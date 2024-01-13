@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "FCS C-3 CLASSIC",
-      "image": "https://i.imgur.com/PxClstO.png",
+      "image": "https://i.imgur.com/Dmo8STV.png",
       "description": "3 piece classic traction, designed to suit all boards.",
       "category": "decks",
       "new_price": 38.5,
@@ -12,7 +12,7 @@
     {
       "id": 2,
       "name": "RYAN CALLINAN PRO SERIES",
-      "image": "https://drive.google.com/file/d/10nDcM271HKqMPxzli8LTZ6sw2MxLgKxv/view?usp=drive_link",
+      "image": "https://i.imgur.com/kfEq4lQ.png",
       "description": "Our Ryan Callinan pro series surfboard tail pad is designed by the Mayor of Mereweather himself. A high performance pad, constructed from lightweight, high impact, water-resistant EVA.",
       "category": "decks",
       "new_price": 46.5,
@@ -21,7 +21,7 @@
     {
       "id": 3,
       "name": "KANOA IGARASHI PRO SERIES",
-      "image": "https://drive.google.com/file/d/19HHKatOu5jlTUQTe1Ua5PnhZA3Avz3la/view?usp=drive_link",
+      "image": "https://i.imgur.com/Q8tJVZj.png",
       "description": "This surfboard tail pad is designed by no other than WSL tour surfer Kanoa Igarashi. A high performance pad, constructed from lightweight, high impact, water-resistant EVA with slotted grooves and Kanoa's custom square diamond groove pattern.",
       "category": "decks",
       "new_price": 46.5,
@@ -30,7 +30,7 @@
     {
       "id": 4,
       "name": "FCS FILIPE TOLEDO TRACTION",
-      "image": "https://drive.google.com/file/d/1kOSrpHL57nX4mg4bVv6pcrZXyH5stfbC/view?usp=drive_link",
+      "image": "https://i.imgur.com/CWOLKyF.png",
       "description": "Designed and tested in collaboration with the world's best surfers, the FCS Athlete Series Traction range has rider-specific features for the ultimate in performance.",
       "category": "decks",
       "new_price": 42,
@@ -39,7 +39,7 @@
     {
       "id": 5,
       "name": "KANOA IGARASHI LITE TRAC",
-      "image": "https://drive.google.com/file/d/1gBUaLyoqsM_-7AdRLIKh0Q0ZQaRsnUZf/view?usp=drive_link",
+      "image": "https://i.imgur.com/yvUn8QF.png",
       "description": "This surfboard tail pad is designed by no other than WSL tour surfer Kanoa Igarashi. A high performance pad, constructed from lightweight, high impact, water-resistant EVA with slotted grooves and Kanoa's custom square diamond groove pattern.",
       "category": "decks",
       "new_price": 46.5,
@@ -48,7 +48,7 @@
     {
       "id": 6,
       "name": "TYLER WRIGHT PRO SERIES",
-      "image": "https://drive.google.com/file/d/1qtZGLMknbAlXC3wTnYesXEZ3b6BQ88Ly/view?usp=drive_link",
+      "image": "https://i.imgur.com/6Oo95ci.png",
       "description": "The Tyler Wright pro series surfboard tail pad has been custom designed by the 2 x World Champ herself. Designed for power surfing and constructed with lightweight, high impact, waterproof EVA.",
       "category": "decks",
       "new_price": 46.5,
@@ -57,7 +57,7 @@
     {
       "id": 7,
       "name": "FCS KOLOHE ANDINO TRACTION",
-      "image": "https://drive.google.com/file/d/1ZgIv3y22RcuxGnmbOsIQtLJyjDQCU-Gb/view?usp=drive_link",
+      "image": "https://i.imgur.com/7PHKsUh.png",
       "description": "The Kolohe Andino signature traction is now available in six different colors, as well as two different colors for the grom-sized grips.",
       "category": "decks",
       "new_price": 43.5,
@@ -66,7 +66,7 @@
     {
       "id": 8,
       "name": "FCS SALLY FITZGIBBONS TRACTION",
-      "image": "https://drive.google.com/file/d/1uxy-635NQq8vh8ae40oLOlOaAouSffh7/view?usp=drive_link",
+      "image": "https://i.imgur.com/BlQVXg6.png",
       "description": "Sally Fitzgibbons' signature 3 piece pad. Designed to feel secure when powering through turns and releasing the tail.",
       "category": "decks",
       "new_price": 45.5,
@@ -75,7 +75,7 @@
     {
       "id": 9,
       "name": "MICRO GROM",
-      "image": "https://drive.google.com/file/d/1Ag4nhSe7tpwWRwAjgtulbgfH73OJDOi9/view?usp=drive_link",
+      "image": "https://i.imgur.com/Ih4JAZZ.png",
       "description": "Get your Grom shredding with the Micro Grom 3-Piece surfboard tail pad. Designed for high performance surfing, this pad is super grippy adding precision and drive to your grom's surfing.",
       "category": "decks",
       "new_price": 45.5,
@@ -84,7 +84,7 @@
     {
       "id": 10,
       "name": "FREDERICO MORAIS PRO SERIES",
-      "image": "https://drive.google.com/file/d/1g24erjc3-o-lcOxdhmvxT-GCELgmcdly/view?usp=drive_link",
+      "image": "https://i.imgur.com/PxClstO.png",
       "description": "Hailing from the wave-rich country of Portugal, Fred`s surfing has been shaped from big beach breaks and slabbing points. A known power surfer who can combine big turns with airs, there is little wonder why Fred has become Europe`s No.1 surfer.",
       "category": "decks",
       "new_price": 45.5,
@@ -93,7 +93,7 @@
     {
       "id": 11,
       "name": "FCS JULIAN WILSON TRACTION",
-      "image": "https://i.imgur.com/fLthjcm.png",
+      "image": "https://i.imgur.com/eS6WMHf.png",
       "description": "Julian Wilson's signature 3 piece pad. Designed for increased traction and reduced weight.",
       "category": "decks",
       "new_price": 41.5,
@@ -102,7 +102,7 @@
     {
       "id": 12,
       "name": "FCS T-2 TRACTION",
-      "image": "https://drive.google.com/file/d/1rwvpKsb2CntJmZTe5FsFnySvMM0LFeus/view?usp=drive_link",
+      "image": "https://i.imgur.com/DwVvp08.png",
       "description": "2 piece traction, designed to suit hybrid boards.",
       "category": "decks",
       "new_price": 41.5,
@@ -111,7 +111,7 @@
     {
       "id": 13,
       "name": "FCS II MICK FANNING TRI FINS",
-      "image": "https://drive.google.com/file/d/1di2G_ybprnFtoodVRECHeSBEgmkGhTH1/view?usp=drive_link",
+      "image": "https://i.imgur.com/x6LMyuD.png",
       "description": "Mick Fanning's signature FCS II MF fin in premium PC material for controlled powerful surfing.",
       "category": "fins",
       "new_price": 104.9,
@@ -120,7 +120,7 @@
     {
       "id": 14,
       "name": "FCS II KOLOHE ANDINO TRI FINS",
-      "image": "https://drive.google.com/file/d/1lR626zaB5_5WDei8miXTejq7fAiR8w5m/view?usp=drive_link",
+      "image": "https://i.imgur.com/nRdhnJ3.png",
       "description": "Kolohe Andino's 'KA' signature fin. Delivers a lively mix of drive, pivot and release.",
       "category": "fins",
       "new_price": 99.9,
@@ -129,7 +129,7 @@
     {
       "id": 15,
       "name": "FCS II JULIAN WILSON LARGE TRI FINS",
-      "image": "https://drive.google.com/file/d/12A86oM8g5eLzEtu6HeLcQbpP5mzu7Vru/view?usp=drive_link",
+      "image": "https://i.imgur.com/akoMwce.png",
       "description": "Julian Wilson's 'JW' signature fin. Speed and projection for progressive surfing.",
       "category": "fins",
       "new_price": 70,
@@ -138,7 +138,7 @@
     {
       "id": 16,
       "name": "FCS II FILIPE TOLEDO TRI FINS",
-      "image": "https://drive.google.com/file/d/1Ps0gIxmc4yQJCtRWxowSt-YpnXahwWGn/view?usp=drive_link",
+      "image": "https://i.imgur.com/TTIYV2Q.png",
       "description": "Filipe Toledo's 'FT' signature fin. Ultra-light material for fast progressive surfing.",
       "category": "fins",
       "new_price": 104.9,
@@ -147,7 +147,7 @@
     {
       "id": 17,
       "name": "FCS II JULIAN WILSON PC AIRCORE TRI FINS",
-      "image": "https://drive.google.com/file/d/17rCFyqdv-RlBht2JX787L1ILk6S-JcYY/view?usp=drive_link",
+      "image": "https://i.imgur.com/Mklis0B.png",
       "description": "Julian Wilson's 'JW' signature fin. Speed and projection for progressive surfing.",
       "category": "fins",
       "new_price": 99.9,
@@ -156,7 +156,7 @@
     {
       "id": 18,
       "name": "FCS II SALLY FITZGIBBONS TRI FINS",
-      "image": "https://drive.google.com/file/d/1u6KvNdYo8jVH3mcTWfKaOE5blf-ynyfL/view?usp=drive_link",
+      "image": "https://i.imgur.com/EgsE0t2.png",
       "description": "Sally Fitzgibbons' SF signature fin. Ideal for beach breaks.",
       "category": "fins",
       "new_price": 125,
@@ -165,7 +165,7 @@
     {
       "id": 19,
       "name": "FCS II JEREMY FLORES TRI FINS",
-      "image": "https://drive.google.com/file/d/1fcXZqlFQiDlIzlxx48_wGjhqTtM-Hdlh/view?usp=drive_link",
+      "image": "https://i.imgur.com/QeZwcQy.png",
       "description": "With a focus on power and a more connected approach, Jeremy's new large signature template lends DNA from multiple fins.",
       "category": "fins",
       "new_price": 104.9,
@@ -174,7 +174,7 @@
     {
       "id": 20,
       "name": "FCS II FILIPE TOLEDO TRI FINS",
-      "image": "https://drive.google.com/file/d/1rR1pZjynKuMnUbqdBowzYlWOn0ZwG14M/view?usp=drive_link",
+      "image": "https://i.imgur.com/0peP9Bb.png",
       "description": "Filipe Toledo's 'FT' signature fin. Ultra-light material for fast progressive surfing.",
       "category": "fins",
       "new_price": 104.9,
@@ -183,7 +183,7 @@
     {
       "id": 21,
       "name": "FCS II NATHAN FLORENCE BIG WAVE TRI FINS",
-      "image": "https://drive.google.com/file/d/1vDmNtdqKlczJ7B5UmUz-1FPXqK9SM52H/view?usp=drive_link",
+      "image": "https://i.imgur.com/QZpHGCb.png",
       "description": "Nathan Florence's signature FCS II Big Wave fin in premium performance glass material, tested and proven in Hawaï, these precision-cut fins are built for big wave surfing.",
       "category": "fins",
       "new_price": 120.9,
@@ -192,7 +192,7 @@
     {
       "id": 22,
       "name": "FCS II KELIA MONIZ LONGBOARD FIN",
-      "image": "https://drive.google.com/file/d/1sbIpv4Y3UKpLpSJ2utm-6PTN2CMyPbGR/view?usp=drive_link",
+      "image": "https://i.imgur.com/XYXBww1.png",
       "description": "Kelia Moniz's new Longboard Fin. Featuring a classic template, perfect for cruising, driving off the bottom & arching through turns.",
       "category": "fins",
       "new_price": 89.9,
@@ -201,7 +201,7 @@
     {
       "id": 23,
       "name": "FCS II KELIA MONIZ LONGBOARD FIN",
-      "image": "https://drive.google.com/file/d/1tZflTCb1Autf9yM3rds9XNfAIDZXnpIh/view?usp=drive_link",
+      "image": "https://i.imgur.com/2w3fIru.png",
       "description": "Kelia Moniz's new Longboard Fin. Featuring a classic template, perfect for cruising, driving off the bottom & arching through turns.",
       "category": "fins",
       "new_price": 89.9,
@@ -210,7 +210,7 @@
     {
       "id": 24,
       "name": "FCS II KELIA MONIZ LONGBOARD FIN",
-      "image": "https://drive.google.com/file/d/1dbhR1EpI3swRiGjxDteiPJdKKNI-8Tsb/view?usp=drive_link",
+      "image": "https://i.imgur.com/ZnRaJP4.png",
       "description": "Kelia Moniz's new Longboard Fin. Featuring a classic template, perfect for cruising, driving off the bottom & arching through turns.",
       "category": "fins",
       "new_price": 89,
@@ -219,7 +219,7 @@
     {
       "id": 25,
       "name": "SLIMLINE LIGHTWEIGHT COMP ONE-XT - 6FT",
-      "image": "https://drive.google.com/file/d/1WToNzzQ4CW9v5Dh2abeJR-hW-WDlzxfK/view?usp=drive_link",
+      "image": "https://i.imgur.com/TEqmXr7.png",
       "description": "Less drag, more speed. Meet the World's Strongest / Lightest leash. Sleek in its design, the SLIMLINE Lightweight Comp One-XT surfboard leash in 6ft uses our Patented One-Piece Cord technology: No Joins, No Weak Points.",
       "category": "leashes",
       "new_price": 42,
@@ -228,7 +228,7 @@
     {
       "id": 26,
       "name": "SLIMLINE LIGHTWEIGHT COMP ONE-XT - 6.6FT",
-      "image": "https://drive.google.com/file/d/1Ty_aPolm3J2tp4hGUd7hUWd__dd60J9K/view?usp=drive_link",
+      "image": "https://i.imgur.com/Ncvyroo.png",
       "description": "Less drag, more speed. Meet the World's Strongest / Lightest leash. Sleek in its design, the SLIMLINE Lightweight Comp One-XT surfboard leash in 6.6ft uses our Patented One-Piece Cord technology: No Joins, No Weak Points.",
       "category": "leashes",
       "new_price": 44,
@@ -237,7 +237,7 @@
     {
       "id": 27,
       "name": "PREMIUM ALL ROUND COMP ONE-XT - 6FT",
-      "image": "https://drive.google.com/file/d/1-KFK-CdTXqrAmKX6YBN0Y-r5ktjn-Dvi/view?usp=drive_link",
+      "image": "https://i.imgur.com/yWwKI0A.png",
       "description": "Less drag, more speed. Meet the World's Strongest / Lightest leash. Sleek in its design, the SLIMLINE Lightweight Comp One-XT surfboard leash in 6ft uses our Patented One-Piece Cord technology: No Joins, No Weak Points.",
       "category": "leashes",
       "new_price": 41,
@@ -246,7 +246,7 @@
     {
       "id": 28,
       "name": "PREMIUM ONE-XT - 7FT",
-      "image": "https://drive.google.com/file/d/1hr6LW1uSuTpkWY_OYW49X4jpcw0vHflY/view?usp=drive_link",
+      "image": "https://i.imgur.com/KdboLSy.png",
       "description": "Less drag, more speed. Meet the World's Strongest / Lightest leash. Sleek in its design, the SLIMLINE Lightweight Comp One-XT surfboard leash in 7ft uses our Patented One-Piece Cord technology: No Joins, No Weak Points.",
       "category": "leashes",
       "new_price": 44.9,
@@ -255,7 +255,7 @@
     {
       "id": 29,
       "name": "PREMIUM ONE-XT - 8FT",
-      "image": "https://drive.google.com/file/d/1k6RGADZ6xm0Vqci5vR1b8kbC-hjITYgR/view?usp=drive_link",
+      "image": "https://i.imgur.com/oY0RfII.png",
       "description": "Less drag, more speed. Meet the World's Strongest / Lightest leash. Sleek in its design, the SLIMLINE Lightweight Comp One-XT surfboard leash in 8ft uses our Patented One-Piece Cord technology: No Joins, No Weak Points.",
       "category": "leashes",
       "new_price": 48,
@@ -264,7 +264,7 @@
     {
       "id": 30,
       "name": "FCS FREEDOM HELIX LEASH - ALL ROUND 6.6FT",
-      "image": "https://drive.google.com/file/d/1bmDc_uy_IzPuig2i5icQeN_0jeptbS4-/view?usp=drive_link",
+      "image": "https://i.imgur.com/gVpfEFM.png",
       "description": "The Freedom Helix creates the perfect blend of weightlessness, strength and sustainability in a leash that`s one of a kind.",
       "category": "leashes",
       "new_price": 42.5,
@@ -273,7 +273,7 @@
     {
       "id": 31,
       "name": "FCS FREEDOM HELIX LEASH - ALL ROUND 6FT",
-      "image": "https://drive.google.com/file/d/1my4IlJO_KkooDRcsC1426bc8N4fB4CJS/view?usp=drive_link",
+      "image": "https://i.imgur.com/3WcM1MP.png",
       "description": "The Freedom Helix creates the perfect blend of weightlessness, strength and sustainability in a leash that`s one of a kind.",
       "category": "leashes",
       "new_price": 40.9,
@@ -282,7 +282,7 @@
     {
       "id": 32,
       "name": "FCS FREEDOM HELIX LEASH - ALL ROUND 7FT",
-      "image": "https://drive.google.com/file/d/1EC9caBhW03dr0huU3-zeyKv14lHqAGJk/view?usp=drive_link",
+      "image": "https://i.imgur.com/WJ8nbo0.png",
       "description": "The Freedom Helix creates the perfect blend of weightlessness, strength and sustainability in a leash that`s one of a kind.",
       "category": "leashes",
       "new_price": 50.5,
@@ -291,7 +291,7 @@
     {
       "id": 33,
       "name": "FCS FREEDOM HELIX LEASH - ALL ROUND 6FT",
-      "image": "https://drive.google.com/file/d/1M0skaZZgC4N6uqdK52Ep17cwHVcCh2L2/view?usp=drive_link",
+      "image": "https://i.imgur.com/p2vkpQr.png",
       "description": "The Freedom Helix creates the perfect blend of weightlessness, strength and sustainability in a leash that`s one of a kind.",
       "category": "leashes",
       "new_price": 50.9,
@@ -300,7 +300,7 @@
     {
       "id": 34,
       "name": "FCS ALL ROUND ESSENTIAL LEASH 7FT",
-      "image": "https://drive.google.com/file/d/1X3zZVgnOKzxdVYyRdS3jDHaPEASfcM2U/view?usp=drive_link",
+      "image": "https://i.imgur.com/5sGZsaz.png",
       "description": "Inspired by the revolutionary freedom leash. The FCS essential series leash has been streamlined into a light, durable and super comfortable leash that is built to handle all conditions.",
       "category": "leashes",
       "new_price": 39,
@@ -309,7 +309,7 @@
     {
       "id": 35,
       "name": "FCS ALL ROUND ESSENTIAL LEASH 6.6FT",
-      "image": "https://drive.google.com/file/d/17f0V-KCDo22ryuLOvCGv8_uAUjJPa6CI/view?usp=drive_link",
+      "image": "https://i.imgur.com/A844esZ.png",
       "description": "Inspired by the revolutionary freedom leash. The FCS essential series leash has been streamlined into a light, durable and super comfortable leash that is built to handle all conditions.",
       "category": "leashes",
       "new_price": 37,
@@ -318,7 +318,7 @@
     {
       "id": 36,
       "name": "FCS ALL ROUND ESSENTIAL LEASH 6FT",
-      "image": "https://drive.google.com/file/d/1FA6rEcKsglKtn6oid_RneHEDKrxlIc9Q/view?usp=drive_link",
+      "image": "https://i.imgur.com/OsOlyvM.png",
       "description": "Inspired by the revolutionary freedom leash. The FCS essential series leash has been streamlined into a light, durable and super comfortable leash that is built to handle all conditions.",
       "category": "leashes",
       "new_price": 35.9,
