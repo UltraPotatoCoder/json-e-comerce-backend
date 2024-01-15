@@ -325,20 +325,5 @@
       "old_price": 40
     }
   ],
-  "cart": [
-    {
-      "productId": 1,
-      "quantity": 1,
-      "productImage": "https://i.imgur.com/Dmo8STV.png",
-      "productTitle": "FCS C-3 CLASSIC",
-      "id": 2
-    },
-    {
-      "productId": 4,
-      "quantity": 1,
-      "productImage": "https://i.imgur.com/CWOLKyF.png",
-      "productTitle": "FCS FILIPE TOLEDO TRACTION",
-      "id": 3
-    }
-  ]
+  "cart": []
 }
