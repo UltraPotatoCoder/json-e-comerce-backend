@@ -325,36 +325,13 @@
       "old_price": 40
     }
   ],
-  "users": [
+  "cart": [
     {
       "id": 1,
-      "username": "john_doe",
-      "password": "password123",
-      "cart": [
-        {
-          "productId": 3,
-          "quantity": 2
-        },
-        {
-          "productId": 5,
-          "quantity": 1
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "username": "potato_man",
-      "password": "potato123",
-      "cart": [
-        {
-          "productId": 3,
-          "quantity": 2
-        },
-        {
-          "productId": 5,
-          "quantity": 1
-        }
-      ]
+      "name": "FCS ALL ROUND ESSENTIAL LEASH 6FT",
+      "image": "https://i.imgur.com/OsOlyvM.png",
+      "price": 44,
+      "quantity": 1
     }
   ]
 }
