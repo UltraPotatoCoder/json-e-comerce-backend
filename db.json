@@ -2,8 +2,10 @@
   "products": [
     {
       "id": 1,
-      "name": "FCS C-3 CLASSIC",
-      "image": "https://i.imgur.com/Dmo8STV.png",
+      "name": "FCS T-3 ECHO TRACTION",
+      "image": "https://i.imgur.com/3b2bT81.png",
+      "image_detail_1": "https://i.imgur.com/EGGIoQw.png",
+      "image_detail_2": "https://i.imgur.com/1amWuyQ.png",
       "description": "3 piece classic traction, designed to suit all boards.",
       "category": "decks",
       "new_price": 38.5,
