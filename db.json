@@ -401,9 +401,9 @@
 
   "users": [
     {
-      "username": "",
-      "email": "",
-      "password": ""
+      "username": "batata",
+      "email": "batata@gmail.com",
+      "password": "batata_frita"
     }
   ]
 }
