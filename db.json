@@ -399,11 +399,5 @@
   ],
   "cart": [],
 
-  "users": [
-    {
-      "username": "batata",
-      "email": "batata@gmail.com",
-      "password": "batata_frita"
-    }
-  ]
+  "users": []
 }
