@@ -397,5 +397,13 @@
       "old_price": 40
     }
   ],
-  "cart": []
+  "cart": [],
+
+  "users": [
+    {
+      "username": "",
+      "email": "",
+      "password": ""
+    }
+  ]
 }
