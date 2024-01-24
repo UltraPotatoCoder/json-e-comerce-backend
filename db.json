@@ -401,5 +401,7 @@
 
   "users": [],
 
-  "register": []
+  "register": [],
+
+  "login": []
 }
