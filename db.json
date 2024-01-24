@@ -403,5 +403,7 @@
 
   "register": [],
 
-  "login": []
+  "login": [],
+
+  "logout": []
 }
